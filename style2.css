@@ -9,11 +9,10 @@ width:100%;
 #b2{
 width:100%;}
 #b3{background-color:#00CCFF;
-  P.example {color: gray;}
-    &lt;P class=&quot;example&quot;&gt;This is an example.&lt;/P&gt;
   padding:5px;
 width:25%; 
   float:left;}
+ P.b3 {color: gray;}
 #b4{background-color:#00CCFF;
    padding:5px; 
 width:60%;
