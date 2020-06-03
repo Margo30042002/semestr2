@@ -1,1 +1,27 @@
-div{border:solid 3px pink}
+div{border:solid 3px pink;
+margin: 0px 0px 5px 0px;
+}
+#b1{background-color:#00CCFF;
+width:100%;
+  padding: 0px;
+  margin: 0px;
+}
+#b2{
+width:100%;}
+#b3{background-color:#090;  
+  padding:5px;
+width:25%; 
+  float:left;}
+#b4{background-color:#009;
+   padding:5px; 
+width:60%;
+float:left;
+padding:0px;
+}
+#b5{background-color:#990;
+    padding:5px
+width:13%;
+float:left;}
+#b6{background-color:#099;
+width:100%;
+clear:both;}
