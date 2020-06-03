@@ -9,6 +9,8 @@ width:100%;
 #b2{
 width:100%;}
 #b3{background-color:#00CCFF;
+  P.example {color: gray;}
+    &lt;P class=&quot;example&quot;&gt;This is an example.&lt;/P&gt;
   padding:5px;
 width:25%; 
   float:left;}
