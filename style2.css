@@ -2,9 +2,7 @@ div{border:solid 3px pink;
 margin: 0px 0px 5px 0px;
  padding: 0px;  
 }
-.fg1{font-family: Georgia, 'Times New Roman', Times, cursive;}
-table,tr,td{border:solid 1px black;}
-body{margin:0px;}
+.fg1{font-family: 'Times New Roman', cursive;}
 #b1{background-color:#999;
 width:100%;
   padding: 0px;
