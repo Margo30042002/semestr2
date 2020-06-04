@@ -11,23 +11,23 @@ width:12000px;
   margin: 20px;
 }
 #b2{text-aling:center;font-style: 14pt Times New Roman;
-width:900px; 
+width:860px; 
 height:500px
  margin: 20px;
 float:left;}
 #b3{;text-aling:center;font-style: 14pt Times New Roman;
-width:300px; 
+width:280px; 
  height:250px
 float:left;
   margin: 20px;
-  background-image:url(pikl.png)width:10px; 
+  background-image:url(pikl.png)
+    width:10px; 
  height:10px
 }
 #b4{text-aling:center;font-style: 14pt Times New Roman;
-width:60%;
+width:300;
 float:left;
-padding:0px;
-float:left;
+ height:250px
 }
 #b5{text-aling:center;font-style: 14pt Times New Roman;
 width:12000px;
