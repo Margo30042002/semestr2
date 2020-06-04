@@ -1,0 +1,1494 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="pingback" href="https://www.molekula.club/xmlrpc.php">
+<title>Зачем нужна математика? - molekula.club</title>
+<!-- This site is optimized with the Yoast SEO plugin v13.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://www.molekula.club/зачем-нужна-математика/" />
+<meta property="og:locale" content="ru_RU" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Зачем нужна математика? - molekula.club" />
+<meta property="og:description" content="Математические способности пригодятся детям в учебе и взрослой жизни – это понимают большинство родителей. А сможете ли вы сходу ответить, какую пользу математика приносит лично вам? Сможете ли вы доступно объяснить ребёнку, для чего ему нужно заниматься математикой? Ведь изучение понятий, законов математики и логики, решение математических и логических задач требует умственных усилий. А зачем &hellip;" />
+<meta property="og:url" content="https://www.molekula.club/зачем-нужна-математика/" />
+<meta property="og:site_name" content="molekula.club" />
+<meta property="article:publisher" content="https://www.facebook.com/molekula.club/" />
+<meta property="article:section" content="Для родителей" />
+<meta property="article:published_time" content="2019-02-03T10:56:38+00:00" />
+<meta property="og:image" content="https://www.molekula.club/wp-content/uploads/2019/02/matematika-b-2-1024x735.jpg" />
+<meta property="og:image:secure_url" content="https://www.molekula.club/wp-content/uploads/2019/02/matematika-b-2-1024x735.jpg" />
+<meta property="og:image:width" content="1024" />
+<meta property="og:image:height" content="735" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Математические способности пригодятся детям в учебе и взрослой жизни – это понимают большинство родителей. А сможете ли вы сходу ответить, какую пользу математика приносит лично вам? Сможете ли вы доступно объяснить ребёнку, для чего ему нужно заниматься математикой? Ведь изучение понятий, законов математики и логики, решение математических и логических задач требует умственных усилий. А зачем [&hellip;]" />
+<meta name="twitter:title" content="Зачем нужна математика? - molekula.club" />
+<meta name="twitter:image" content="https://www.molekula.club/wp-content/uploads/2019/02/matematika-b-2-1024x735.jpg" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://www.molekula.club/#/schema/person/2ee4ab2eec0cfa263f7dc47b64ee6885","name":"mgprog","image":{"@type":"ImageObject","@id":"https://www.molekula.club/#personlogo","inLanguage":"ru-RU","url":"https://www.molekula.club/wp-content/uploads/2019/05/200_45.png","width":200,"height":42,"caption":"mgprog"},"logo":{"@id":"https://www.molekula.club/#personlogo"},"sameAs":[]},{"@type":"WebSite","@id":"https://www.molekula.club/#website","url":"https://www.molekula.club/","name":"molekula.club","inLanguage":"ru-RU","description":"\u0414\u0435\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u044e\u0449\u0438\u0439 \u043a\u043b\u0443\u0431 \u0432 \u041f\u0440\u0430\u0433\u0435","publisher":{"@id":"https://www.molekula.club/#/schema/person/2ee4ab2eec0cfa263f7dc47b64ee6885"},"potentialAction":[{"@type":"SearchAction","target":"https://www.molekula.club/?s={search_term_string}","query-input":"required name=search_term_string"}]},{"@type":"ImageObject","@id":"https://www.molekula.club/%d0%b7%d0%b0%d1%87%d0%b5%d0%bc-%d0%bd%d1%83%d0%b6%d0%bd%d0%b0-%d0%bc%d0%b0%d1%82%d0%b5%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b0/#primaryimage","inLanguage":"ru-RU","url":"https://www.molekula.club/wp-content/uploads/2019/02/matematika-b-2-1024x735.jpg","width":1024,"height":735},{"@type":"WebPage","@id":"https://www.molekula.club/%d0%b7%d0%b0%d1%87%d0%b5%d0%bc-%d0%bd%d1%83%d0%b6%d0%bd%d0%b0-%d0%bc%d0%b0%d1%82%d0%b5%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b0/#webpage","url":"https://www.molekula.club/%d0%b7%d0%b0%d1%87%d0%b5%d0%bc-%d0%bd%d1%83%d0%b6%d0%bd%d0%b0-%d0%bc%d0%b0%d1%82%d0%b5%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b0/","name":"\u0417\u0430\u0447\u0435\u043c \u043d\u0443\u0436\u043d\u0430 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430? - molekula.club","isPartOf":{"@id":"https://www.molekula.club/#website"},"inLanguage":"ru-RU","primaryImageOfPage":{"@id":"https://www.molekula.club/%d0%b7%d0%b0%d1%87%d0%b5%d0%bc-%d0%bd%d1%83%d0%b6%d0%bd%d0%b0-%d0%bc%d0%b0%d1%82%d0%b5%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b0/#primaryimage"},"datePublished":"2019-02-03T10:56:38+00:00","dateModified":"2019-02-03T10:56:38+00:00","potentialAction":[{"@type":"ReadAction","target":["https://www.molekula.club/%d0%b7%d0%b0%d1%87%d0%b5%d0%bc-%d0%bd%d1%83%d0%b6%d0%bd%d0%b0-%d0%bc%d0%b0%d1%82%d0%b5%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b0/"]}]},{"@type":"Article","@id":"https://www.molekula.club/%d0%b7%d0%b0%d1%87%d0%b5%d0%bc-%d0%bd%d1%83%d0%b6%d0%bd%d0%b0-%d0%bc%d0%b0%d1%82%d0%b5%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b0/#article","isPartOf":{"@id":"https://www.molekula.club/%d0%b7%d0%b0%d1%87%d0%b5%d0%bc-%d0%bd%d1%83%d0%b6%d0%bd%d0%b0-%d0%bc%d0%b0%d1%82%d0%b5%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b0/#webpage"},"author":{"@id":"https://www.molekula.club/#/schema/person/2ee4ab2eec0cfa263f7dc47b64ee6885"},"headline":"\u0417\u0430\u0447\u0435\u043c \u043d\u0443\u0436\u043d\u0430 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430?","datePublished":"2019-02-03T10:56:38+00:00","dateModified":"2019-02-03T10:56:38+00:00","commentCount":0,"mainEntityOfPage":{"@id":"https://www.molekula.club/%d0%b7%d0%b0%d1%87%d0%b5%d0%bc-%d0%bd%d1%83%d0%b6%d0%bd%d0%b0-%d0%bc%d0%b0%d1%82%d0%b5%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b0/#webpage"},"publisher":{"@id":"https://www.molekula.club/#/schema/person/2ee4ab2eec0cfa263f7dc47b64ee6885"},"image":{"@id":"https://www.molekula.club/%d0%b7%d0%b0%d1%87%d0%b5%d0%bc-%d0%bd%d1%83%d0%b6%d0%bd%d0%b0-%d0%bc%d0%b0%d1%82%d0%b5%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b0/#primaryimage"},"articleSection":"\u0414\u043b\u044f \u0440\u043e\u0434\u0438\u0442\u0435\u043b\u0435\u0439","inLanguage":"ru-RU"}]}</script>
+<!-- / Yoast SEO plugin. -->
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="molekula.club &raquo; Лента" href="https://www.molekula.club/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.molekula.club\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+display: inline !important;
+border: none !important;
+box-shadow: none !important;
+height: 1em !important;
+width: 1em !important;
+margin: 0 .07em !important;
+vertical-align: -0.1em !important;
+background: none !important;
+padding: 0 !important;
+}
+</style>
+<!-- <link rel='stylesheet' id='bootstrap-css'  href='https://www.molekula.club/wp-content/themes/enfant/css/bootstrap.min.css?ver=5.4.1' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='wp-block-library-css'  href='https://www.molekula.club/wp-includes/css/dist/block-library/style.min.css?ver=5.4.1' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='wc-block-style-css'  href='https://www.molekula.club/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=2.5.14' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='contact-form-7-css'  href='https://www.molekula.club/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.7' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='zoutula-style-css'  href='https://www.molekula.club/wp-content/plugins/enfant-theme-extension/shortcodes/assets/css/shortcodes.css?ver=VERSION' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='zoutula-responsive-css'  href='https://www.molekula.club/wp-content/plugins/enfant-theme-extension/shortcodes/assets/css/responsive.css?ver=VERSION' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='zoutula-font-icons-css'  href='https://www.molekula.club/wp-content/plugins/enfant-theme-extension/shortcodes/assets/font-icons/flaticon.css?ver=VERSION' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='owl-carousel-css'  href='https://www.molekula.club/wp-content/plugins/enfant-theme-extension/shortcodes/assets/css/owl.carousel.min.css?ver=VERSION' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='essential-grid-plugin-settings-css'  href='https://www.molekula.club/wp-content/plugins/essential-grid/public/assets/css/settings.css?ver=2.2.4' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.molekula.club/wp-content/cache/www.molekula.club/wpfc-minified/knatiws0/240jm.css" media="all"/>
+<link rel='stylesheet' id='tp-open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%2C800&#038;ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-raleway-css'  href='https://fonts.googleapis.com/css?family=Raleway%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-droid-serif-css'  href='https://fonts.googleapis.com/css?family=Droid+Serif%3A400%2C700&#038;ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-roboto-css'  href='https://fonts.googleapis.com/css?family=Roboto+Serif%3A400&#038;ver=5.4.1' type='text/css' media='all' />
+<!-- <link rel='stylesheet' id='tp-fontello-css'  href='https://www.molekula.club/wp-content/plugins/essential-grid/public/assets/font/fontello/css/fontello.css?ver=2.2.4' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.molekula.club/wp-content/cache/www.molekula.club/wpfc-minified/9iatpxqn/240jm.css" media="all"/>
+<link rel='stylesheet' id='Gfonts-css'  href='https://fonts.googleapis.com/css?family=Roboto%7CRoboto+Condensed%7CRoboto+Mono%7CRoboto+Slab&#038;ver=5.4.1' type='text/css' media='all' />
+<!-- <link rel='stylesheet' id='mptt-style-css'  href='https://www.molekula.club/wp-content/plugins/mp-timetable/media/css/style.css?ver=2.3.10' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='rs-plugin-settings-css'  href='https://www.molekula.club/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.7.2' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.molekula.club/wp-content/cache/www.molekula.club/wpfc-minified/7m46usxt/24iqk.css" media="all"/>
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<!-- <link rel='stylesheet' id='woocommerce-layout-css'  href='https://www.molekula.club/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=4.0.1' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.molekula.club/wp-content/cache/www.molekula.club/wpfc-minified/efdrw8lk/240jm.css" media="all"/>
+<!-- <link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://www.molekula.club/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=4.0.1' type='text/css' media='only screen and (max-width: 768px)' /> -->
+<link rel="stylesheet" type="text/css" href="//www.molekula.club/wp-content/cache/www.molekula.club/wpfc-minified/kmonqfmd/240jm.css" media="only screen and (max-width: 768px)"/>
+<!-- <link rel='stylesheet' id='woocommerce-general-css'  href='https://www.molekula.club/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=4.0.1' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.molekula.club/wp-content/cache/www.molekula.club/wpfc-minified/mnt3m3jc/240jm.css" media="all"/>
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='googlefonts-css'  href='https://fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,400,400italic,500,500italic,700,700italic,900,900italic|Rubik:400&subset=latin,cyrillic' type='text/css' media='all' />
+<!-- <link rel='stylesheet' id='spu-public-css-css'  href='https://www.molekula.club/wp-content/plugins/popups/public/assets/css/public.css?ver=1.9.3.8' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='enfant-style-css'  href='https://www.molekula.club/wp-content/themes/enfant/style.css?ver=3.1.9' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.molekula.club/wp-content/cache/www.molekula.club/wpfc-minified/kqd1zncq/240jm.css" media="all"/>
+<style id='enfant-style-inline-css' type='text/css'>
+body, aside a,
+.ztl-package-circle .period,
+.ztl-main-font{
+font-family: 'Lato',sans-serif;
+}
+.ztl-announcement .line-1,
+#search-modal .search-title,
+.sidebar-ztl h2,
+.ztl-counter .counter,
+.ztl-package-circle .item,
+.ztl-package-description span:first-child,
+.ztl-countdown .grid h1,
+.ztl-steps-carousel .number-step,
+.comment-reply-title,
+.comments-title,
+.ztl-contact-heading,
+.ztl-error-code,
+.ztl-404-page-description,
+.ztl-staff-item .variation-2 .staff-title,
+.ztl-heading,
+.page-top .entry-title,
+.ztl-course-item .course-title,
+.ztl-accordion h4 a,
+.ztl-accent-font,
+.enfant-navigation {
+font-family: 'Montserrat',sans-serif;
+}
+.ztl-tabs .vc_tta-panel-title > a,
+.ztl-tabs .vc_tta-tabs-list .vc_tta-tab > a{
+color: #ff4e31 !important;
+border-color: #ff4e31;
+}
+.ztl-tabs .vc_active .vc_tta-panel-title > a span:after,
+.ztl-tabs .vc_tta-tabs-list .vc_active > a span:after {
+border-top: 10px solid #ff4e31;
+}
+.ztl-tabs .vc_active .vc_tta-panel-title > a,
+.ztl-tabs .vc_tta-tabs-list .vc_tta-tab > a:hover,
+.ztl-tabs .vc_tta-tabs-list .vc_active > a,
+.ztl-tabs .vc_tta-panel-title> a:hover {
+background-color:#ff4e31 !important;
+color: #ffffff !important;
+border:2px solid #ff4e31 !important;
+}
+.ztl-error-code,
+.ztl-404-page-description{
+color: #002749;
+}
+.ztl-steps-carousel .owl-prev,
+.ztl-steps-carousel .owl-next,
+.ztl-testimonials-carousel .owl-prev,
+.ztl-testimonials-carousel .owl-next{
+font-family: 'Montserrat',sans-serif;
+color: #ff4e31;
+border-color: #ff4e31;
+}
+.ztl-steps-carousel .owl-prev:hover,
+.ztl-steps-carousel .owl-next:hover,
+.ztl-testimonials-carousel .owl-prev:hover,
+.ztl-testimonials-carousel .owl-next:hover{
+font-family: 'Montserrat',sans-serif;
+background-color: #ff4e31 !important;
+border-color: #ff4e31;
+color:#fff;
+}
+.ztl-testimonials-carousel .owl-dots .owl-dot{
+border-color: #ff4e31;
+}
+.ztl-testimonials-carousel .owl-dots .owl-dot:hover, 
+.ztl-testimonials-carousel .owl-dots .owl-dot.active{
+background-color: #ff4e31 !important;
+}
+.ztl-first-color{
+color: #ff4e31;
+}
+.ztl-accordion h4 a,
+.ztl-accordion h4 a:hover{
+color: #002749 !important;
+}
+.ztl-accordion h4 a i:before,
+.ztl-accordion h4 a i:after{
+border-color: #ff4e31 !important;
+}
+.ztl-button-one a,
+.ztl-button-two a,
+.ztl-button-two span.ztl-action,
+.ztl-button-three a,
+.ztl-button-four a{
+white-space: nowrap;
+}
+/*Button Style One*/
+.ztl-button-one a,
+.ztl-button-one button {
+padding:10px 20px !important;
+border-radius:28px;
+border:solid 2px;
+font-size:14px;
+line-height:18px;
+transition: all .2s ease-in-out;
+-webkit-transition: all .2s ease-in-out;
+font-weight:500;
+font-family: 'Montserrat',sans-serif;
+text-transform:uppercase;
+text-decoration:none;
+display:inline-block;
+}
+.ztl-button-one a,
+.ztl-button-one a:focus,
+.ztl-button-one button,
+.ztl-button-one button:focus {
+color: #ff4e31 !important;
+border-color: #ff4e31 !important;
+background-color: transparent !important;
+text-decoration:none;
+}
+.ztl-button-one button:hover,
+.ztl-button-one button:active,
+.ztl-button-one a:hover,
+.ztl-button-one a:active {
+color: #fff !important;
+background-color: #ff4e31 !important;
+text-decoration:none;
+}
+/*Button Style Two*/
+.ztl-button-two a,
+.ztl-button-two span.ztl-action,
+.ztl-button-two button{
+padding:10px 20px !important;
+border-radius:28px;
+border:solid 2px;
+font-size:14px;
+line-height:18px;
+transition: all .2s ease-in-out;
+-webkit-transition: all .2s ease-in-out;
+cursor:pointer;
+font-weight:500;
+font-family: 'Montserrat',sans-serif;
+text-transform:uppercase;
+text-decoration:none;
+display:inline-block;
+}
+.ztl-button-two a,
+.ztl-button-two a:focus,    
+.ztl-button-two span.ztl-action,
+.ztl-button-two span.ztl-action:focus,
+.ztl-button-two button,
+.ztl-button-two button:focus{
+color: #fff !important;
+border-color: #fff !important;
+background-color: transparent !important;
+text-decoration:none;
+}
+.ztl-button-two button:hover,
+.ztl-button-two button:active,    
+.ztl-button-two span.ztl-action:hover,
+.ztl-button-two span.ztl-action:active,
+.ztl-button-two a:hover,
+.ztl-button-two a:active{
+color: #fff !important;
+background-color: #ff4e31 !important;
+border-color: #ff4e31 !important;
+text-decoration:none;
+cursor:pointer;
+}
+/*Button Style Three*/
+.ztl-button-three a,
+.ztl-button-three button,
+.ztl-button-three input[type="submit"]{
+padding:10px 20px !important;
+border-radius:28px;
+border:solid 2px;
+font-size:14px;
+line-height:18px;
+transition: all .2s ease-in-out;
+-webkit-transition: all .2s ease-in-out;
+cursor:pointer;
+font-weight:500;
+font-family: 'Montserrat',sans-serif;
+text-transform:uppercase;
+text-decoration:none;
+display:inline-block;
+}
+.ztl-button-three a,
+.ztl-button-three a:focus,
+.ztl-button-three button,
+.ztl-button-three button:focus,
+.ztl-button-three input[type="submit"],
+.ztl-button-three input[type="submit"]:focus{
+background-color: #ff4e31 !important;
+border-color: #ff4e31 !important;
+color: #fff !important;
+text-decoration:none;
+}
+.ztl-button-three button:hover,
+.ztl-button-three button:active,
+.ztl-button-three a:hover,
+.ztl-button-three a:active,
+.ztl-button-three input[type="submit"]:hover,
+.ztl-button-three input[type="submit"]:active {
+color: #ff4e31 !important;
+border-color: #ff4e31 !important;
+background-color: transparent !important;
+text-decoration:none;
+cursor:pointer;
+}
+/*Button Style Four*/
+.ztl-button-four a,
+.ztl-button-four button{
+padding:10px 20px !important;
+border-radius:28px;
+border:solid 2px;
+font-size:14px;
+line-height:18px;
+transition: all .2s ease-in-out;
+-webkit-transition: all .2s ease-in-out;
+cursor:pointer;
+font-weight:500;
+font-family: 'Montserrat',sans-serif;
+text-transform:uppercase;
+text-decoration:none;
+display:inline-block;
+}
+.ztl-button-four a,
+.ztl-button-four a:focus,
+.ztl-button-four button,
+.ztl-button-four button:focus{
+background-color: #ff4e31 !important;
+border-color: #ff4e31 !important;
+color: #ffffff !important;
+text-decoration:none;
+}
+.ztl-button-four button:hover,
+.ztl-button-four button:active,
+.ztl-button-four a:hover,
+.ztl-button-four a:active{
+color: #fff !important;
+border-color: #fff !important;
+background-color: transparent !important;
+text-decoration:none;
+cursor:pointer;
+}
+/* Enfant Navigation */
+.enfant-navigation .esg-navigationbutton:hover,
+.enfant-navigation .esg-filterbutton:hover,
+.enfant-navigation .esg-sortbutton:hover,
+.enfant-navigation .esg-sortbutton-order:hover,
+.enfant-navigation .esg-cartbutton-order:hover,
+.enfant-navigation .esg-filterbutton.selected{
+color: #fff !important;
+background-color: #ff4e31 !important;
+border-color: #ff4e31 !important;
+text-decoration:none;
+cursor:pointer;
+font-family: 'Lato',sans-serif;
+}
+.enfant-navigation .esg-filterbutton,
+.enfant-navigation .esg-navigationbutton,
+.enfant-navigation .esg-sortbutton,
+.enfant-navigation .esg-cartbutton{
+color: #ff4e31 !important;
+border-color: #ff4e31 !important;
+background-color: transparent !important;
+text-decoration:none;
+font-family: 'Lato',sans-serif;
+}
+/* Shortcodes default colors */
+.ztl-divider.primary > span.circle{ border:2px solid #ff4e31; }
+.ztl-divider.primary > span > span:first-child{ background-color: #ff4e31; }
+.ztl-divider.primary > span > span:last-child{ background-color: #ff4e31; }
+.ztl-divider.secondary > span{ background-color: #ff4e31; }
+.ztl-widget-recent-posts ul > li > .ztl-recent-post-date span{
+color: #ff4e31 !important;
+font-size:24px;
+font-weight: bold;
+}
+.ztl-grid-post-date span,
+.eg-item-skin-enfant-blog-element-31 span,
+.ztl-event-date span{
+color: #ff4e31 !important;
+font-size:32px;
+}
+.ztl-event-info {
+color: #002749;
+}
+#ztl-loader{
+border-top: 2px solid #ff4e31;
+}
+.ztl-list li:before{
+color:#ff4e31;
+}
+a,
+.ztl-link,
+.ztl-title-medium,
+.ztl-staff-item .staff-title,
+.no-results .page-title,
+.category-listing .title a {
+color: #002749;
+}
+.ztl-widget-recent-posts h6 a:hover{
+color: #002749;
+}
+.post-navigation .nav-previous a:hover,
+.post-navigation .nav-next a:hover{
+color: #002749;
+}
+a:visited,
+a:active,
+a:focus,
+.sidebar-right .menu a{
+color: #002749;
+}
+a:hover,
+.sidebar-right li>a:hover {
+color: #002749;
+}
+.ztl-social a{
+color: #002749;
+}
+.ztl-social a:hover{
+color: #ff4e31;
+}
+#ztl-shopping-bag .qty{
+background-color:#ff4e31;
+color:#fff;
+font-family: 'Montserrat',sans-serif;
+}
+#ztl-shopping-bag  a .ztl-cart-quantity,
+#ztl-shopping-bag  a:hover .ztl-cart-quantity{
+color:#fff;
+}
+#menu-toggle span {
+background-color:#ff4e31;
+}
+.main-navigation .menu-item-has-children > a:after{
+color:#ff4e31;
+}
+#ztl-copyright{
+color: #002749;
+}
+#ztl-copyright a{
+text-decoration:underline;
+cursor:pointer;
+color: #002749;
+}
+.main-navigation a{
+font-size: 15px;
+font-weight: 700;
+}
+.main-navigation ul ul li{
+background-color: #ff4e31 !important;
+}
+.main-navigation ul ul li:first-child:before {
+content: '';
+width: 0;
+height: 0;
+border-left: 10px solid transparent;
+border-right: 10px solid transparent;
+border-bottom: 10px solid #ff4e31;
+position: absolute;
+top: -10px;
+left: 20px;
+}
+.main-navigation ul ul ul li:first-child:before {
+content: '';
+width: 0;
+height: 0;
+border-top: 10px solid transparent;
+border-bottom: 10px solid transparent;
+border-right: 10px solid #ff4e31;
+position: absolute;
+left: -20px;;
+top: 23px;
+}
+.main-navigation ul ul li a,
+.main-navigation ul ul li:hover a{
+color: #ffffff !important;
+}
+.main-navigation .menu-item-has-children .menu-item-has-children > a:after{
+color: #ffffff;
+-ms-transform: rotate(270deg);
+-webkit-transform: rotate(270deg);
+transform: rotate(270deg);
+}
+.main-navigation a{
+color: #002749 !important;
+}
+/*.main-navigation .current_page_item > a,
+.main-navigation .current_page_ancestor > a,
+.main-navigation .current-menu-item > a,
+.main-navigation .current-menu-ancestor > a,
+.main-navigation .sub-menu li.current-menu-item > a,
+.main-navigation .sub-menu li.current_page_item > a{
+color: #ff4e31 !important;
+}
+.main-navigation ul ul > li:hover > a {
+color: #ff4e31 !important;
+} */
+.ztl-tools-wrapper .item span{
+color:#002749;
+}
+.ztl-tools-wrapper .item span:hover{
+color:#ff4e31;
+}
+#ztl-shopping-bag div:hover span{
+color:#ff4e31;
+}
+/*
+.main-navigation .current_page_item ul a,
+.main-navigation .current-menu-item ul a{
+color: #002749 !important;
+}*/
+.post-navigation .ztl-icon-navigation  {
+color: #ff4e31;
+}
+.ztl-recent-post-date,
+.ztl-recent-post-date a,
+.category-listing .item .date,
+.category-listing .item .date a,{
+color: #002749;
+}
+.ztl-recent-post-date a span,
+.ztl-single .date a span,
+.category-listing .item .date a span{
+color: #ff4e31;
+font-size: 32px; 
+font-weight:bold;
+}
+.tp-leftarrow,
+.tp-rightarrow{
+background-color:transparent !important;
+}
+.site-footer .site-info{
+background-color:#ffffff;
+}
+.site-header{
+background-color:#ffffff;
+border-color: #f2f2f2;
+}
+.ztl-tools-wrapper .item,
+.category-listing .item .info,
+.ztl-post .info,
+.comment-navigation .nav-previous,
+.paging-navigation .nav-previous,
+.post-navigation .nav-previous,
+.comment-navigation .nav-next,
+.paging-navigation .nav-next,
+.post-navigation .nav-next,
+.ztl-course-item .course-description div,
+.ztl-course-description div,
+.ztl-course-item .course-description div:last-child,
+.ztl-course-description div:last-child {
+border-color: #f2f2f2;
+}
+.comment article {
+border-bottom: 2px solid #f2f2f2;
+}
+.ztl-breadcrumb-container{
+border-color: #f2f2f2;
+}
+.category-listing .item:after{
+background-color: #f2f2f2;
+}
+.category-listing .item i,
+.ztl-post i,
+.ztl-widget-recent-posts ul>li>a+h6+span i{
+color: #ff4e31;
+}
+.ztl-scroll-top:hover{
+background-color: #ff4e31;
+}
+.pagination .page-numbers {
+color:#002749;
+}
+.pagination .current,
+.pagination .current:hover,
+.vc_tta-color-white.vc_tta-style-flat .vc_tta-panel .vc_tta-panel-heading:hover {
+color:#ffffff !important;
+background-color:#ff4e31 !important;
+}
+.pagination .page-numbers:hover {
+background-color: #ff4e31;
+color:#ffffff;
+}
+.pagination .prev:hover,
+.pagination .next:hover {
+color:#ff4e31;
+background-color:transparent !important;}
+.category-sidebar-right .widget_text li:before,
+.post-sidebar-right .widget_text li:before,
+.ztl-post-info:before{
+color:#ff4e31;
+}
+aside select {
+border-color: #f2f2f2;
+}
+aside caption{
+color: #002749;
+}
+.comment-author,
+.comments-title,
+.comment-reply-title,
+.ztl-course-item .course-title,
+.ztl-course-item .detail{
+color: #002749 !important;
+}
+.sidebar-right .widget-title::after,
+.custom-header-title::after,
+.widget-title::after{
+background-color: #ff4e31;
+}
+.sidebar-footer{
+background-color: #002749;
+}
+.ztl-widget-category-container .author a,
+.ztl-widget-category-container .category,
+.ztl-widget-category-container .category a,
+.ztl-widget-category-container .entry-date,
+.ztl-widget-category-container .entry-date a,
+.category-listing .info a,
+.category-listing .info,
+.posted-on a, .byline,
+.byline .author a,
+.entry-footer, .comment-form,
+.entry-footer a,
+.ztl-post .info,
+.comment-metadata a,
+.ztl-post .info a,
+.ztl-breadcrumb-container,
+.ztl-staff-item .staff-position{
+color:#a0a0a0;
+}
+@media only screen and (max-width: 767px) {
+.main-navigation ul ul li a,
+.main-navigation ul ul li:hover a{
+color:#848484 !important;
+}
+.main-navigation ul li{
+border-bottom:1px solid #f2f2f2;
+}
+.main-navigation ul ul li:first-child{
+border-top:1px solid #f2f2f2;
+}
+.main-navigation .menu-item-has-children .menu-item-has-children > a:after{
+color: #ff4e31;
+-ms-transform: rotate(0deg);
+-webkit-transform: rotate(0deg);
+transform: rotate(0deg);
+}
+}
+.widget.woocommerce ul li .quantity,
+.widget.woocommerce ul li .amount,
+.woocommerce .widget_shopping_cart .total,
+.woocommerce.widget_shopping_cart .total,
+.woocommerce .product .amount,
+.price_slider_amount .price_label,
+.widget.woocommerce  .reviewer{
+color:#a0a0a0;
+}
+.woocommerce a.button.added:after,
+.woocommerce div.product form.cart .variations label{
+color: #002749 !important;
+}
+/*WooCommerce Notices*/
+.woocommerce a.remove,
+.woocommerce .widget_rating_filter ul li.chosen a:before,
+.woocommerce .widget_layered_nav ul li.chosen a:before,
+.woocommerce .widget_layered_nav_filters ul li a:before {
+color:#a0a0a0 !important;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow b {
+border-color: #a0a0a0  transparent transparent !important;
+}
+.select2-container--default.select2-container--open .select2-selection--single .select2-selection__arrow b {
+border-color: transparent transparent #a0a0a0  !important;
+}
+.woocommerce .woocommerce-message,
+.woocommerce .woocommerce-info,
+.woocommerce .woocommerce-error,
+.woocommerce select,
+.woocommerce-page select,
+.woocommerce form .form-row.woocommerce-invalid .select2-container,
+.woocommerce form .form-row.woocommerce-invalid input.input-text,
+.woocommerce form .form-row.woocommerce-invalid select,
+.woocommerce .select2-container--default .select2-selection--single {
+border-color: #f2f2f2 !important;
+}
+.select2-container--default .select2-results__option[aria-selected=true],
+.select2-container--default .select2-results__option--highlighted[aria-selected] {
+background-color: #f2f2f2;
+color:#545454;
+}
+.woocommerce .select2-container .select2-choice,
+.woocommerce .quantity input,
+.woocommerce #reviews #comments ol.commentlist li .comment-text,
+.woocommerce table.shop_table,
+#add_payment_method table.cart td.actions .coupon .input-text,
+.woocommerce-cart table.cart td.actions .coupon .input-text,
+.coupon .input-text,
+.woocommerce-checkout table.cart td.actions .coupon .input-text,
+.woocommerce .quantity .qty,
+.select2-dropdown {
+border: 2px solid #f2f2f2;
+}
+#add_payment_method #payment div.payment_box,
+.woocommerce-cart #payment div.payment_box,
+.woocommerce-checkout #payment div.payment_box {
+background-color: #f2f2f2;
+}
+#add_payment_method #payment div.payment_box:before,
+.woocommerce-cart #payment div.payment_box:before,
+.woocommerce-checkout #payment div.payment_box:before {
+border: 2px solid #f2f2f2;
+border-top-color: transparent;
+border-left-color: transparent;
+border-right-color: transparent;
+}
+.select2-container--default .select2-search--dropdown .select2-search__field {
+border: 2px solid #f2f2f2 !important;
+}
+.woocommerce table.shop_attributes {
+border-top: 2px dashed #f2f2f2;
+}
+.woocommerce table.shop_attributes td,
+.woocommerce table.shop_attributes th {
+border-bottom: 2px dashed #f2f2f2;
+}
+.woocommerce form .form-row.woocommerce-validated .select2-container,
+.woocommerce form .form-row.woocommerce-validated input.input-text,
+.woocommerce form .form-row.woocommerce-validated select{
+border-color: #f2f2f2;
+}
+#add_payment_method .cart-collaterals .cart_totals tr td,
+#add_payment_method .cart-collaterals .cart_totals tr th,
+.woocommerce-cart .cart-collaterals .cart_totals tr td,
+.woocommerce-cart .cart-collaterals .cart_totals tr th,
+.woocommerce-checkout .cart-collaterals .cart_totals tr td,
+.woocommerce-checkout .cart-collaterals .cart_totals tr th,
+.woocommerce table.shop_table tfoot th,
+.woocommerce table.shop_table td {
+border-top: 2px solid  #f2f2f2;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs::before,
+.woocommerce .wc-tab{
+border-bottom: 2px solid  #f2f2f2;
+}
+#add_payment_method #payment, 
+.woocommerce-checkout #payment,
+.woocommerce-MyAccount-navigation{
+background-color: #f2f2f2;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li {
+border-radius: 0;
+border: solid 2px #f2f2f2;
+background-color: #f2f2f2;
+}
+.woocommerce #respond input#submit,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt{
+color: #ff4e31;
+border-color: #ff4e31 !important;
+background-color:transparent;
+text-transform:uppercase;
+font-family: Montserrat;
+}
+.woocommerce #respond input#submit:hover,
+.woocommerce a.button:hover,
+.woocommerce button.button:hover,
+.woocommerce input.button:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce button.button.alt:hover,
+.woocommerce input.button.alt:hover,
+.woocommerce .single_add_to_cart_button:hover{
+background-color:#ff4e31;
+border-color: #ff4e31 !important;
+color:#ffffff;
+}
+.woocommerce #respond input#submit.alt.disabled,
+.woocommerce #respond input#submit.alt.disabled:hover,
+.woocommerce #respond input#submit.alt:disabled,
+.woocommerce #respond input#submit.alt:disabled:hover,
+.woocommerce #respond input#submit.alt:disabled[disabled],
+.woocommerce #respond input#submit.alt:disabled[disabled]:hover,
+.woocommerce a.button.alt.disabled,
+.woocommerce a.button.alt.disabled:hover,
+.woocommerce a.button.alt:disabled,
+.woocommerce a.button.alt:disabled:hover,
+.woocommerce a.button.alt:disabled[disabled],
+.woocommerce a.button.alt:disabled[disabled]:hover,
+.woocommerce button.button.alt.disabled,
+.woocommerce button.button.alt.disabled:hover,
+.woocommerce button.button.alt:disabled,
+.woocommerce button.button.alt:disabled:hover,
+.woocommerce button.button.alt:disabled[disabled],
+.woocommerce button.button.alt:disabled[disabled]:hover,
+.woocommerce input.button.alt.disabled,
+.woocommerce input.button.alt.disabled:hover,
+.woocommerce input.button.alt:disabled,
+.woocommerce input.button.alt:disabled:hover,
+.woocommerce input.button.alt:disabled[disabled],
+.woocommerce input.button.alt:disabled[disabled]:hover,
+.woocommerce input.button:disabled, 
+.woocommerce input.button:disabled[disabled],
+.woocommerce input.button:disabled:hover, 
+.woocommerce input.button:disabled[disabled]:hover{
+background-color: #ffffff;
+color:#ff4e31;
+}
+.woocommerce p.stars a,
+.woocommerce .star-rating:before,
+.woocommerce .star-rating {
+color:#ff4e31;
+}
+.woocommerce .star-rating::before {
+color:#a0a0a0 !important;
+}
+.woocommerce span.onsale,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range{
+background-color: #ff4e31;
+}
+.woocommerce .widget_price_filter .price_slider_wrapper .ui-widget-content{
+background-color:rgba(255,78,49,0.5);
+}
+.woocommerce-page #content h1,
+.woocommerce-page #content h2,
+.woocommerce-page #content h3,
+.woocommerce-thankyou-order-received,
+.woocommerce form .form-row label{
+color: #002749;;
+}
+.woocommerce .widget_shopping_cart .total,
+.woocommerce.widget_shopping_cart .total {
+border-top: 2px solid #f2f2f2;
+}
+.woocommerce .cart_totals h2,
+.woocommerce-checkout h3,
+.woocommerce-account h3,
+.woocommerce-account h2,
+.woocommerce .woocommerce-tabs h2,
+.woocommerce .related.products h2{
+font-family: Montserrat;
+} 
+.woocommerce form.checkout_coupon,
+.woocommerce form.login,
+.woocommerce form.register{
+border: 2px solid #f2f2f2;
+border-radius:0px;
+} 
+.woocommerce .order_details li {
+border-right: 2px solid #f2f2f2;
+}
+.woocommerce ul.products:after{
+background-color: #f2f2f2;
+}
+.woocommerce form  input:-webkit-autofill {
+-webkit-box-shadow: 0 0 0 50px #f2f2f2 inset;
+}
+.woocommerce form  input:-webkit-autofill:focus {
+-webkit-box-shadow: 0 0 0 50px #f2f2f2 inset;
+}
+.ztl-checkbox-helper{
+background-color: #f2f2f2;
+}
+.woocommerce form .form-row input[type='text'],
+.woocommerce form .form-row input[type='tel'],
+.woocommerce form .form-row input[type='email'],
+.woocommerce form .form-row input[type='password']{
+background-color: #f2f2f2 !important;
+border: 2px solid #f2f2f2;
+border-radius: 28px;
+line-height: 18px;
+padding: 10px 20px;
+}
+</style>
+<!-- <link rel='stylesheet' id='enfant-woocommerce-css'  href='https://www.molekula.club/wp-content/themes/enfant/css/enfant-woocommerce.css?ver=3.1.9' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='enfant-style-responsive-css'  href='https://www.molekula.club/wp-content/themes/enfant/css/enfant-responsive.css?ver=3.1.9' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='font-awesome-css'  href='https://www.molekula.club/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=5.4.7' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='enfant-flaticon-css'  href='https://www.molekula.club/wp-content/themes/enfant/css/enfant-flaticon.css?ver=3.1.9' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.molekula.club/wp-content/cache/www.molekula.club/wpfc-minified/qj1oww2o/240jm.css" media="all"/>
+<link rel='stylesheet' id='enfant-fonts-css'  href='https://fonts.googleapis.com/css?family=Lato%3A300%2C400%2C500%2C700%7CMontserrat%3A300%2C400%2C500%2C700&#038;subset=Latin%2CCyrillic&#038;ver=5.4.1' type='text/css' media='all' />
+<!-- <link rel='stylesheet' id='fancybox-css'  href='https://www.molekula.club/wp-content/plugins/easy-fancybox/css/jquery.fancybox.min.css?ver=1.3.24' type='text/css' media='screen' /> -->
+<link rel="stylesheet" type="text/css" href="//www.molekula.club/wp-content/cache/www.molekula.club/wpfc-minified/7ylrpa5l/240jm.css" media="screen"/>
+<script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script src='//www.molekula.club/wp-content/cache/www.molekula.club/wpfc-minified/f5ubx85w/240jn.js' type="text/javascript"></script>
+<!-- <script type='text/javascript' src='https://www.molekula.club/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script> -->
+<!-- <script type='text/javascript' src='https://www.molekula.club/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script> -->
+<!-- <script type='text/javascript' src='https://www.molekula.club/wp-content/plugins/essential-grid/public/assets/js/jquery.esgbox.min.js?ver=2.2.4'></script> -->
+<!-- <script type='text/javascript' src='https://www.molekula.club/wp-content/plugins/essential-grid/public/assets/js/jquery.themepunch.tools.min.js?ver=2.2.4'></script> -->
+<!-- <script type='text/javascript' src='https://www.molekula.club/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.7.2'></script> -->
+<!-- <script type='text/javascript' src='https://www.molekula.club/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script> -->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"\u041f\u0440\u043e\u0441\u043c\u043e\u0442\u0440 \u043a\u043e\u0440\u0437\u0438\u043d\u044b","cart_url":"https:\/\/www.molekula.club\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
+/* ]]> */
+</script>
+<script src='//www.molekula.club/wp-content/cache/www.molekula.club/wpfc-minified/1c9za65k/240jm.js' type="text/javascript"></script>
+<!-- <script type='text/javascript' src='https://www.molekula.club/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=4.0.1'></script> -->
+<!-- <script type='text/javascript' src='https://www.molekula.club/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=5.4.7'></script> -->
+<link rel='https://api.w.org/' href='https://www.molekula.club/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.molekula.club/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.molekula.club/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.1" />
+<meta name="generator" content="WooCommerce 4.0.1" />
+<link rel='shortlink' href='https://www.molekula.club/?p=6868' />
+<link rel="alternate" type="application/json+oembed" href="https://www.molekula.club/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.molekula.club%2F%25d0%25b7%25d0%25b0%25d1%2587%25d0%25b5%25d0%25bc-%25d0%25bd%25d1%2583%25d0%25b6%25d0%25bd%25d0%25b0-%25d0%25bc%25d0%25b0%25d1%2582%25d0%25b5%25d0%25bc%25d0%25b0%25d1%2582%25d0%25b8%25d0%25ba%25d0%25b0%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.molekula.club/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.molekula.club%2F%25d0%25b7%25d0%25b0%25d1%2587%25d0%25b5%25d0%25bc-%25d0%25bd%25d1%2583%25d0%25b6%25d0%25bd%25d0%25b0-%25d0%25bc%25d0%25b0%25d1%2582%25d0%25b5%25d0%25bc%25d0%25b0%25d1%2582%25d0%25b8%25d0%25ba%25d0%25b0%2F&#038;format=xml" />
+<noscript><style type="text/css">.mptt-shortcode-wrapper .mptt-shortcode-table:first-of-type{display:table!important}.mptt-shortcode-wrapper .mptt-shortcode-table .mptt-event-container:hover{height:auto!important;min-height:100%!important}body.mprm_ie_browser .mptt-shortcode-wrapper .mptt-event-container{height:auto!important}@media (max-width:767px){.mptt-shortcode-wrapper .mptt-shortcode-table:first-of-type{display:none!important}}</style></noscript>		<script type="text/javascript">
+var ajaxRevslider;
+jQuery(document).ready(function() {
+// CUSTOM AJAX CONTENT LOADING FUNCTION
+ajaxRevslider = function(obj) {
+// obj.type : Post Type
+// obj.id : ID of Content to Load
+// obj.aspectratio : The Aspect Ratio of the Container / Media
+// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
+var content = "";
+data = {};
+data.action = 'revslider_ajax_call_front';
+data.client_action = 'get_slider_html';
+data.token = 'b16b442743';
+data.type = obj.type;
+data.id = obj.id;
+data.aspectratio = obj.aspectratio;
+// SYNC AJAX REQUEST
+jQuery.ajax({
+type:"post",
+url:"https://www.molekula.club/wp-admin/admin-ajax.php",
+dataType: 'json',
+data:data,
+async:false,
+success: function(ret, textStatus, XMLHttpRequest) {
+if(ret.success == true)
+content = ret.data;								
+},
+error: function(e) {
+console.log(e);
+}
+});
+// FIRST RETURN THE CONTENT WHEN IT IS LOADED !!
+return content;						 
+};
+// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER
+var ajaxRemoveRevslider = function(obj) {
+return jQuery(obj.selector+" .rev_slider").revkill();
+};
+// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION
+var extendessential = setInterval(function() {
+if (jQuery.fn.tpessential != undefined) {
+clearInterval(extendessential);
+if(typeof(jQuery.fn.tpessential.defaults) !== 'undefined') {
+jQuery.fn.tpessential.defaults.ajaxTypes.push({type:"revslider",func:ajaxRevslider,killfunc:ajaxRemoveRevslider,openAnimationSpeed:0.3});   
+// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container
+// func: the Function Name which is Called once the Item with the Post Type has been clicked
+// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !
+// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)
+}
+}
+},30);
+});
+</script>
+<style type='text/css' media='screen'>
+p{ font-family:"Roboto", arial, sans-serif;}
+p{ font-family:"Rubik", arial, sans-serif;}
+</style>
+<!-- fonts delivered by Wordpress Google Fonts, a plugin by Adrian3.com -->
+<!-- Saphali Lite Version -->
+<meta name="generator" content="Saphali Lite 1.8.8" />
+<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+<style type="text/css" id="breadcrumb-trail-css">.breadcrumbs .trail-browse,.breadcrumbs .trail-items,.breadcrumbs .trail-items li {display: inline-block;margin:0;padding: 0;border:none;background:transparent;text-indent: 0;}.breadcrumbs .trail-browse {font-size: inherit;font-style:inherit;font-weight: inherit;color: inherit;}.breadcrumbs .trail-items {list-style: none;}.trail-items li::after {content: "\002F";padding: 0 0.5em;}.trail-items li:last-of-type::after {display: none;}</style>
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.molekula.club/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->		<script type="text/javascript">
+var cli_flush_cache=1;
+</script>
+<meta name="generator" content="Powered by Slider Revolution 5.4.7.2 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script type="text/javascript">function setREVStartSize(e){									
+try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+}catch(d){console.log("Failure at Presize of Slider:"+d)}						
+};</script>
+<style type="text/css" id="wp-custom-css">
+/*
+You can add your own CSS here.
+Click the help icon above to learn more.
+*/
+.ztl-tools-wrapper .item {
+border-color: #e5e5e5;
+}
+@media only screen and (min-width: 768px) {
+.menu-item-4433 a:after,
+.menu-item-4434 a:after
+{
+color: #FF4E31 !important;
+background-color: #fff !important;
+margin-right:-5px;
+}
+}
+.menu-item-4433 a:after,
+.menu-item-4434 a:after{
+content:'Demo';
+display:inline-block;
+font-size:9px;
+float:right;
+background-color: #FF4E31;
+border-radius:50%;
+width:32px;
+height:32px;
+text-align:center;
+line-height:30px;
+color:#fff;
+margin-top:-4px;
+}
+.closepopover {
+width: 30px;
+position: absolute;
+right: 10px;
+cursor: pointer;
+transition: 0.3s;
+top: 10px;
+}
+.closepopover:hover {
+opacity: .6;
+}
+.alert_wrp {
+position: relative;
+background: #f2f2f2;
+text-align: center;
+padding: 15px;
+transition: 0.3s;
+padding-left: 50px;
+padding-right: 50px;
+}
+.alert_wrp p {
+margin: 0;
+}
+.alert_wrp p a {
+color: black!important;
+text-decoration: underline!important
+}
+.alert_wrp p a:hover {
+text-decoration: none!important
+}
+.content_visible {
+height: 0;
+overflow: hidden;
+padding: 0;
+}
+@media screen and (max-width:991px) {
+.alert_wrp p {
+font-size: 11px;
+}
+.alert_wrp {
+padding: 10px;
+padding-right: 15px;
+text-align: left;
+}
+.closepopover {
+top: 5px;
+right: 5px;
+width: 25px;
+}
+.content_visible {
+height: 0;
+overflow: hidden;
+padding: 0;
+}
+}
+.affix {
+position: fixed;
+top: 0;
+}
+.ztl-tools-wrapper {
+float: inherit;
+height: 80px;
+}
+.entry-content h2, .comment-content h2, .mu_register h2 {
+font-size: 22px;
+line-height: 1.5;
+}
+button, input[type=text], input[type=email], input[type=url], input[type=tel], input[type=password], input[type=search], select, textarea {
+font-size: 100%;
+margin: 1;
+vertical-align: baseline;
+-webkit-appearance: none;
+-moz-appearance: none;
+appearance: none;
+width: 250px;
+border-radius: 10px!important;
+position: relative;
+left: 50%;
+transform: translate(-50%, 0);
+}
+.fancybox-inline {
+border: 1px solid #08c;
+display: inline-block;
+padding: 5px 15px;
+text-decoration: none;
+color: #ffffff!important;
+background-color: #08c;
+width: auto;
+height: 50px;
+padding-top: 6px;
+font-size: 24px;
+}
+.fancybox-inline:hover {
+box-shadow: 0 0 5px rgba(0,0,0,0.3); /* Тень */
+background: linear-gradient(to bottom, #fcfff4, #e9e9ce); /* Градиент */
+color: #000000!important;
+text-decoration: none;
+}
+.wpb_single_image .vc_figure a img:hover {
+-webkit-transform: scale(1.1);
+-moz-transform: scale(1.1);
+-o-transform: scale(1.1);
+transition: 1s;
+}		</style>
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body data-rsssl=1 class="post-template-default single single-post postid-6868 single-format-standard theme-enfant woocommerce-no-js wpb-js-composer js-comp-ver-5.4.7 vc_responsive">
+<div id="ztl-overlay">
+<div id="ztl-loader"></div>
+</div>
+<div id="page" class="hfeed site ">
+<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+<div id="head-frame">
+<header id="masthead" class="site-header">
+<div class="header-one" style="background-color: #f9f9f9;">
+<div class="container">
+<div class="header-one-left">
+<div id="logo-first" style="width:100px;">
+<a href="https://www.molekula.club/" rel="home">
+<img class="logo-img" src="https://www.molekula.club/wp-content/uploads/2020/03/logo1.png" alt="molekula.club" data-rjs="2" />
+</a>
+</div>
+</div>
+<div class="header-one-right sidebar-ztl">
+<div class="wrapper">
+<aside id="text-2" class="widget header-widget widget_text"><h2 class="widget-title">Адрес</h2>			<div class="textwidget"><div class="ztl-header-widget">
+<span style="color: #000000;">
+<span class="flaticon-tool ztl-icon large"></span>
+</span>
+<div class="ztl-widget-wrapper" style="border-color:#2B455B;">
+<h6><span style="color:#ff4e31;padding-right:5px; font-weight:600;">АДРЕС: </span> <span style="color:#000000"> Mánesova 1656/88</span></h6>
+<h6 style="color:#000000;">Vinohrady, 120 00 Praha 2 (ДЦ Clever-Bee)</h6>
+</div>
+</div></div>
+</aside><aside id="text-3" class="widget header-widget widget_text"><h2 class="widget-title">Режим работы</h2>			<div class="textwidget"><div class="ztl-header-widget">
+<span style="color: #000000;">
+<span class="flaticon-alarm-clock-1 ztl-icon large"></span>
+</span>
+<div class="ztl-widget-wrapper" style="border-color:#2B455B;">
+<h6><span style="color:#ff4e31;padding-right:5px; font-weight:600;">РЕЖИМ РАБОТЫ: </span> <span style="color:#000000">  11:00 - 19:00</h6>
+<h6> <span style="color:#000000">Понедельник - Суббота</span> </h6>
+</div>
+</div></div>
+</aside>						</div>
+</div>
+</div>
+</div>
+<div class="container">
+<div id="logo-second" style="width:100px;">
+<a href="https://www.molekula.club/" rel="home">
+<img class="logo-img" src="https://www.molekula.club/wp-content/uploads/2020/03/logo1.png" alt="molekula.club" data-rjs="2" />
+</a>
+</div>
+<div id="menu-toggle">
+<!-- navigation hamburger -->
+<span></span>
+<span></span>
+<span></span>
+<span></span>
+</div>
+<div id="nav-wrapper">
+<nav id="site-navigation" class="main-navigation">
+<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-3502" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-3502"><a href="https://www.molekula.club/">Главная</a></li>
+<li id="menu-item-6199" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6199"><a href="#">Курсы</a>
+<ul class="sub-menu">
+<li id="menu-item-6424" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6424"><a href="/repetitor/">Репетиторство</a>
+<ul class="sub-menu">
+<li id="menu-item-6432" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6432"><a href="/course/math/">Математика</a></li>
+<li id="menu-item-6433" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6433"><a href="/course/fizika/">Физика</a></li>
+<li id="menu-item-6434" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6434"><a href="https://www.molekula.club/chess_ru">Шахматы</a></li>
+<li id="menu-item-6431" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6431"><a href="/course/program/">Программирование</a></li>
+</ul>
+</li>
+<li id="menu-item-6331" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6331"><a href="https://www.molekula.club/chess_ru">Шахматы</a></li>
+<li id="menu-item-5463" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5463"><a href="/course/math/">Математика</a></li>
+<li id="menu-item-5464" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5464"><a href="/course/program/">Программирование</a></li>
+<li id="menu-item-5495" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5495"><a href="/course/building/">Конструирование</a></li>
+<li id="menu-item-5465" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5465"><a href="/course/fizika/">Физика</a></li>
+<li id="menu-item-5466" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5466"><a href="/course/science/">Занимательная наука</a></li>
+<li id="menu-item-5467" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5467"><a href="/course/logikum-2/">Курс для школьников “Логикум”</a></li>
+<li id="menu-item-5468" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5468"><a href="/course/logikum/">Игротека с родителями</a></li>
+<li id="menu-item-5469" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5469"><a href="/course/handmade/">Handmade</a></li>
+<li id="menu-item-5470" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5470"><a href="/tematicheskie_lagerya/">Тематические воскресные лагеря</a></li>
+</ul>
+</li>
+<li id="menu-item-5515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5515"><a href="https://www.molekula.club/raspisanie/">Расписание</a></li>
+<li id="menu-item-6336" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6336"><a href="#">Мероприятия</a>
+<ul class="sub-menu">
+<li id="menu-item-6209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6209"><a href="https://www.molekula.club/camp/">Лагеря</a></li>
+</ul>
+</li>
+<li id="menu-item-3351" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3351"><a href="/news/">Блог</a>
+<ul class="sub-menu">
+<li id="menu-item-6030" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6030"><a href="/news/">Новости клуба</a></li>
+<li id="menu-item-5590" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5590"><a href="https://www.molekula.club/chess_blog/">Шахматный</a></li>
+<li id="menu-item-6329" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6329"><a href="/science_blog/">Научный</a></li>
+<li id="menu-item-6330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6330"><a href="https://www.molekula.club/parents_blog">Для родителей</a></li>
+</ul>
+</li>
+<li id="menu-item-3499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3499"><a href="https://www.molekula.club/about-us/">О нас</a>
+<ul class="sub-menu">
+<li id="menu-item-5487" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5487"><a href="/lectors/">Учителя</a></li>
+<li id="menu-item-5847" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5847"><a href="https://www.molekula.club/gallery/">Галерея</a></li>
+</ul>
+</li>
+<li id="menu-item-3353" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3353"><a href="/contact/">Контакты</a></li>
+<li id="menu-item-6743-cs" class="lang-item lang-item-102 lang-item-cs no-translation lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-6743-cs"><a href="https://www.molekula.club/cs/hlavni/" hreflang="cs-CZ" lang="cs-CZ"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFuSURBVHjaYmSIP9sdIJLlJsIABv/+/YOQyAw4+PPvH0AAsQj++8LGK3vzxV8DRR6Inv//wQScQgIvXrwACCAmIOD+/2f1hS9Hrn+EqIArQzMeYiFAALEAGX///ef6+3PjlX9///2z0xL4jwNANAAEEMsfoLuAhv3/z/3357qLf//8/eegLYBLw58/fwACiOXXH7Bv/v7/+/c/59+fK87+Fd++WkmUDcj/9+cPkGT4C5b7+5dRQIAhLw8ggIA2AA0FCQL1/P77z/fCGplzG37++v3/16+/v0Hk/9+//4FJFiWlDz9/AgQQy98/QKeDlAI12J3faHduI1TR798Mv34xgPUASaBrQIiBASCAWBh+gawAqT630f48SDXEPLg2kMgfoAaQq4A6AAIIqAGk2uvZEdO35xmkpIFyTEDzgEqBHvj9mxFI/vnDDPMG0AaAAGJh+PHnWohxCMP7l8BQAyNQaMDYfyDRD2MwMTAABBgAMxl5E8UTSgsAAAAASUVORK5CYII=" title="Čeština (cs_CZ)" alt="Čeština" width="16" height="11" /></a></li>
+<li id="menu-item-6743-ru" class="lang-item lang-item-106 lang-item-ru current-lang menu-item menu-item-type-custom menu-item-object-custom menu-item-6743-ru"><a href="https://www.molekula.club/%d0%b7%d0%b0%d1%87%d0%b5%d0%bc-%d0%bd%d1%83%d0%b6%d0%bd%d0%b0-%d0%bc%d0%b0%d1%82%d0%b5%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b0/" hreflang="ru-RU" lang="ru-RU"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAE2SURBVHjaYvz69T8DAvz79w9CQVj/0MCffwwAAcQClObiAin6/x+okxHMgPCAbOb//5n+I4EXL74ABBALxGSwagTjPzbAyMgItAQggBg9Pf9nZPx//x7kjL9////9C2QAyf9//qCQQCQkxFhY+BEggFi2b/+nq8v46BEDSPQ3w+8//3//BqFfv9BJeXmQEwACCOSkP38YgHy4Bog0RN0vIOMXVOTPH6Cv/gEEEEgDxFKgHEgDXCmGDUAE1AAQQCybGZg1f/d8//XsH0jTn3+///z79RtE/v4NZfz68xfI/vOX+4/0ZoZFAAHE4gYMvD+3/v2+h91wCANo9Z+/jH9VxBkYAAKIBRg9TL//MEhKAuWAogxgZzGC2CCfgUggAoYdGAEVAwQQ41egu5AQAyoXTQoIAAIMAD+JZR7YOGEWAAAAAElFTkSuQmCC" title="Русский (ru_RU)" alt="Русский" width="16" height="11" /></a></li>
+</ul></div>				</nav><!-- #site-navigation -->
+<div class="clear"></div>
+</div>
+<div class="ztl-tools-wrapper">
+</div>
+</div>
+</header><!-- #masthead -->
+</div>
+<div id="content" class="site-content ">
+<div class="page-top custom-header">
+<div class="header-image ztl-breadcrumb-show">
+<div class="ztl-header-image" style="background-color:#f2f2f2;">
+<div class="container container-title">
+<h1 class="ztl-accent-font custom-header-title"
+style="color:#002749;">
+Зачем нужна математика?                    </h1>
+</div>
+</div>
+<div class="ztl-breadcrumb-container">
+<div class="container">
+<nav role="navigation" aria-label="Хлебные крошки" class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb"><ul class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta name="numberOfItems" content="3" /><meta name="itemListOrder" content="Ascending" /><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-begin"><a href="https://www.molekula.club/" rel="home" itemprop="item"><span itemprop="name">Главная</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item"><a href="https://www.molekula.club/category/parents/" itemprop="item"><span itemprop="name">Для родителей</span></a><meta itemprop="position" content="2" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-end"><span itemprop="item"><span itemprop="name">Зачем нужна математика?</span></span><meta itemprop="position" content="3" /></li></ul></nav>                    </div>
+</div>
+</div>
+</div>
+<div id="primary" class="content-area">
+<main id="main" class="site-main">
+<div class="container">
+<div class="row">
+<div class="clearfix col-lg-8 col-md-8 col-sm-8 ">
+<article id="post-6868" class="post-6868 post type-post status-publish format-standard has-post-thumbnail hentry category-parents">
+<div class="entry-content ztl-single">
+<div class="entry-meta centered">
+<span class="entry-title">Зачем нужна математика?</span>
+<div class="ztl-post">
+<div class="date">
+<span class="date-tag ztl-date-line">
+<a href="https://www.molekula.club/%d0%b7%d0%b0%d1%87%d0%b5%d0%bc-%d0%bd%d1%83%d0%b6%d0%bd%d0%b0-%d0%bc%d0%b0%d1%82%d0%b5%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b0/">3 / Февраль</a>
+</span>
+</div>
+<div class="image">
+<img width="1024" height="735" src="https://www.molekula.club/wp-content/uploads/2019/02/matematika-b-2-1024x735.jpg" class="attachment-enfant-full size-enfant-full wp-post-image" alt="" srcset="https://www.molekula.club/wp-content/uploads/2019/02/matematika-b-2-1024x735.jpg 1024w, https://www.molekula.club/wp-content/uploads/2019/02/matematika-b-2-1024x735-300x215.jpg 300w, https://www.molekula.club/wp-content/uploads/2019/02/matematika-b-2-1024x735-768x551.jpg 768w, https://www.molekula.club/wp-content/uploads/2019/02/matematika-b-2-1024x735-600x431.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" />				</div>
+<div class="info">
+<span>
+<i class="base-flaticon-layout"></i>
+<a href="https://www.molekula.club/category/parents/" title="View all posts filed under Для родителей">Для родителей</a>                        </span>
+<span>
+<i class="base-flaticon-edit"></i>
+<a href="https://www.molekula.club/author/mgprog/" title="Записи mgprog" rel="author">mgprog</a>                        </span>
+<span>
+<i class="base-flaticon-networking"></i>
+<a href="https://www.molekula.club/%d0%b7%d0%b0%d1%87%d0%b5%d0%bc-%d0%bd%d1%83%d0%b6%d0%bd%d0%b0-%d0%bc%d0%b0%d1%82%d0%b5%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b0/#comments">
+0                            Comments                        </a>
+</span>
+</div>
+</div>
+</div><!-- .entry-meta -->
+<p>Математические способности пригодятся детям в учебе и взрослой жизни – это понимают большинство родителей. А сможете ли вы сходу ответить, какую пользу математика приносит лично вам?</p>
+<p><span id="more-6868"></span></p>
+<p>Сможете ли вы доступно объяснить ребёнку, для чего ему нужно заниматься математикой? Ведь изучение понятий, законов математики и логики, решение математических и логических задач требует умственных усилий. А зачем вообще это нужно?</p>
+<p><strong>Мы изучили ряд научных исследований, и выделили реальные доказательства пользы от занятий математикой.</strong></p>
+<p>Даже если вы убеждены, что жизнь вашего ребенка не будет связана с математикой, рекомендуем все равно прочитать нашу статью, чтобы как минимум с легкостью ответить на вопросы маленького «почемучки».</p>
+<h2>1. Математика развивает мышление</h2>
+<p>Изучая математику и решая задачи, ребёнок учится:</p>
+<ul class="iconed check-square">
+<li>обобщать и выделять важное;</li>
+<li>анализировать и систематизировать;</li>
+<li><a href="https://logiclike.com/math-logic/zakonomernosti" target="_blank" rel="noopener">находить закономерности</a> и устанавливать причинно-следственные связи;</li>
+<li>рассуждать и делать выводы;</li>
+<li>мыслить логически, стратегически и абстрактно.</li>
+</ul>
+<p>Как регулярные спортивные тренировки «прокачивают» тело, делают его здоровым, сильным и выносливым, так регулярные занятия математикой «прокачивают» мозг – развивают интеллект и познавательные способности, расширяют кругозор.</p>
+<p>Математика закладывает навыки эффективного и быстрого обучения чему угодно. Все это происходит благодаря «превращению в человека мыслящего».</p>
+<div class="article-recommend"><span class="art-recommend">ЧИТАЙТЕ ТАКЖЕ:</span>В статье «5 причин научиться думать как математик» мы подробно разобрали<span class="next-line"><a href="https://logiclike.com/math-logic/interesno-polezno/dumaj-kak-matematik" target="_blank" rel="noopener">в чем заключается сила математического мышления и зачем его развивать</a>.</span></div>
+<h2>2. Занятия математикой тренируют память</h2>
+<p>Ученые из Стэнфордского университета в США изучили процесс решения человеком математических задач и выяснили, что взрослые люди используют для этих целей мышление и доведенный до автоматизма навык «доставать» из памяти уже имеющиеся там ответы.</p>
+<p>Дети до 7 лет часто прибегают к помощи пальцев рук и ног, а также различных заменителей (реальных предметов, счетных палочек). В «переходный период», в возрасте от 7 до 9 лет, у школьников формируется «взрослый» навык «думания», осмысления и запоминания информации.</p>
+<p>Интересное <a href="http://www.nature.com/neuro/journal/v17/n9/full/nn.3788.html" target="_blank" rel="noopener">исследование</a> было опубликованно в журнале «Nature Neuroscience» в 2014 году. В первую очередь, оно было посвящено изучению роли гиппокампа (области в головном мозге) в развитии познавательной активности детей. Но его косвенные выводы таковы:</p>
+<ul class="iconed check-square">
+<li>если хотите, чтобы у ребенка в школе не было проблем с математикой – тренируйте память в раннем возрасте;</li>
+<li>решение математических задач развивает память.</li>
+</ul>
+<h2>3. Математика закаляет характер</h2>
+<p>Для правильного решения математических и логических задач нужны внимательность, настойчивость, ответственность, точность и аккуратность.</p>
+<p><img src="https://logiclike.com/blog/wp-content/uploads/2016/11/lzr-6-7-let-03.png" alt="математика тренирует мышцы характера" width="394" /></p>
+<p>Чем регулярнее ребенок тренирует эти «мышцы характера», тем сильнее они становятся, тем чаще помогают ребенку в решении не только учебных задач, но и жизненных проблем.</p>
+<h2>4. Музыка для математики, математика – для музыки</h2>
+<p>Комплексное <a href="http://journals.sagepub.com/doi/abs/10.1177/0743558410366594" target="_blank" rel="noopener">исследование</a>, проведенное Барбарой Хелмрич (Barbara H. Helmrich) из Колледжа Нотр-Дам в Балтиморе, выявило, что дети, которые играли на музыкальных инструментах в средней школе, ощутимо лучше успевают по математике в старших классах. Ученые обнаружили, что за решение алгебраических задач и обработку музыкальной информации отвечает один и тот же участок головного мозга.</p>
+<p class="incut-citation">«Наибольшая средняя разница в результатах по алгебре между любыми двумя группами испытуемых была обнаружена между афроамериканскими «инструментальными» группами и группами «немузыкальных» школьников».</p>
+<p>Парадоксально, но ученые как будто не интересовались обратной связью.<br />
+Ведь если за развитие математических и музыкальных способностей отвечает один и тот же участок головного мозга, не исключено, что занятия математикой улучшают музыкальные способности.</p>
+<p>Вспоминается Шерлок Холмс, который был одновременно превосходным сыщиком и талантливым скрипачом. Многие скажут, что знаменитый английский сыщик – просто выдумка, но у него был свой реальный прототип, наставник и друг Артура Конана Дойла. Страстным скрипачом был и величайший физик Альберт Эйнштейн.</p>
+<h2>5. Математика помогает преуспевать в гуманитарных науках</h2>
+<p>Именно ранние математические способности – верная предпосылка к тому, что в дальнейшем ребенок будет не только хорошо понимать математику, но и преуспевать в других школьных дисциплинах. Далее по значимости вклада в учебные успехи идут навыки чтения и способности управлять своим вниманием.</p>
+<p>К таким выводам пришли ученые в области образования и социальной политики Северо-Западного университета в Эванстоне. В ходе <a href="https://www.ncbi.nlm.nih.gov/pubmed/18020822" target="_blank" rel="noopener">исследования</a> они оценивали связь ключевых элементов готовности к школе (базовые навыки для приема в школу &#8211; «академическая» готовность, внимание, социально-эмоциональные навыки) с дальнейшими успехами в учебе.</p>
+<p>Математика – наука междисциплинарная, она тесно связана с физикой, географией, геологией, химией. Социология и экономика неотделимы от математики, и многие выводы даже привычно гуманитарных наук, таких как лингвистика, журналистика, опираются на математические модели и понятия, математические и логические законы.</p>
+<h2>6. Развивает навыки решения бытовых задач</h2>
+<p>Барбара Оакли, доктор технических наук, исследователь стволовых клеток мозга и автор книги «Думай как математик» подчеркивает:</p>
+<p class="incut-citation">«Математика избавляет нас от «магического мышления» – мы стремимся вникнуть в суть вещей и не полагаемся на авось и высшие силы».</p>
+<p>Чем сложнее становятся математические задачи, тем больше навыков требуется для их решения. Ребенок учится рассуждать, выстраивать последовательности, продумывать алгоритмы, жонглировать сразу несколькими понятиями, и эти навыки входят в привычку.</p>
+<p>Благодаря математике мы избавляемся от вредных привычек:</p>
+<ul class="iconed check-square">
+<li>не домысливаем, а оперируем только точными терминами;</li>
+<li>не просто механически запоминаем информацию и правила, а оцениваем ее, анализируем, размышляем, чтобы понять и усвоить новый материал, новый жизненный урок.</li>
+</ul>
+<h2>7. Математика – основа успешной карьеры</h2>
+<p>Если 10-15 лет назад перспективным считалось изучение иностранных языков, то сейчас свободным владением несколькими языками никого не удивишь. Теперь профессиональная востребованность во многом зависит от понимания технологий, умения мыслить, абстрагироваться и способностей к решению нестандартных задач. Крайне сложно обойтись без знания математики тем, кто хочет работать в сфере IT.</p>
+<p>Абстрактное, критическое и стратегическое мышление, аналитические способности, умение выстраивать алгоритмы – «мастхэв» для хорошего разработчика.</p>
+<div class="art-img">
+<p class="img-desc">Результативные занятия математикой придают уверенность в себе, ведь успехи в ней требуют упорства в стремлении решить самые сложные, иногда, на первый взгляд, «неразрешимые» задачи и проблемы.</p>
+</div>
+<h2>8. Решение задач вырабатывает психологическую стойкость</h2>
+<p>Решение математических задач помогает улучшить эмоциональный фон – это занятие способно избавить от тревоги, помогает контролировать эмоции и предупреждает стресс.</p>
+<p>К таким выводам пришли ученые из Университета Дьюка в США, которые сумели доказать это в <a href="http://journals.sagepub.com/doi/full/10.1177/2167702616654688#abstract" target="_blank" rel="noopener">исследовании</a>, опубликованном в журнале «Клиническая психология» в 2016 году.</p>
+<h2>9. Удовольствие от «икс»</h2>
+<p>Для человека, серьёзно занимающегося математикой, математические формулы, уравнения и другие логические и математические задачи воплощают собой красоту, гармонию и доставляют такое же эстетическое удовольствие, как музыка, искусство и хорошая шутка, утверждает группа исследователей из нескольких университетов Великобритании.</p>
+<p>С помощью функциональной магнитно-резонансной томографии была зафиксирована активность мозговой деятельности испытуемых во время демонстрации им математических уравнений, формул и задач. Результаты <a href="http://journal.frontiersin.org/article/10.3389/fnhum.2014.00068/full" target="_blank" rel="noopener">исследования</a> опубликованы в журнале «Границы человеческой нейробиологии» (Frontiers in Human Neuroscience) в 2014 году.</p>
+<p>Как научиться испытывать радость и наслаждение от занятий математикой рассказывает известный американский математик, выпускник Гарвардского университета, Стивен Строгац. Преподаватель прикладной математики, обладатель наград в области математики и преподавания на страницах своей книги «Удовольствие от X» с энтузиазмом, просто и понятно объясняет самые значительные математические идеи.</p>
+<p>Мы убеждены, что детям, особенно в возрасте 5-9 лет, не обязательно рассказывать, как важно изучать математику. Гораздо важнее дать возможность ребёнку окунуться в мир занимательной интерактивной математики.</p>
+<div class="art-img"></div>
+<p>Источник: <a href="https://logiclike.com/math-logic/interesno-polezno/zachem-nuzhna-matematika">logiclike.com</a></p>
+</div><!-- .entry-content -->
+<footer class="entry-footer">
+</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+<nav class="navigation post-navigation">
+<h2 class="screen-reader-text">Post navigation</h2>
+<div class="nav-links">
+<div class="nav-previous"><span class="meta-nav"></span><i class="fa ztl-icon-navigation  base-flaticon-arrow-left"></i><a href="https://www.molekula.club/%d1%88%d0%b0%d1%85%d0%bc%d0%b0%d1%82%d0%bd%d1%8b%d0%b9-%d1%82%d1%83%d1%80%d0%bd%d0%b8%d1%80-unicredit-rapid-open/" rel="prev">Шахматный турнир UniCredit Rapid Open</a></div><div class="nav-next"><a href="https://www.molekula.club/%d1%88%d0%b0%d1%85%d0%bc%d0%b0%d1%82%d0%bd%d1%8b%d0%b9-%d1%82%d1%83%d1%80%d0%bd%d0%b8%d1%80-porg-open/" rel="next">Шахматный турнир Porg Open</a><span class="meta-nav"></span><i class="fa ztl-icon-navigation  base-flaticon-arrow-right"></i></div>		</div><!-- .nav-links -->
+</nav><!-- .navigation -->
+</div>
+<div class="clearfix post-sidebar-right col-lg-4 col-md-4 col-sm-4 ">
+</div>
+</div>
+</div>
+</main><!-- #main -->
+</div><!-- #primary -->
+	</div><!-- #content -->
+<footer id="colophon" class="site-footer">
+<div class="sidebar-footer sidebar-ztl">
+<div class="container">
+<div class="row">
+<aside id="custom_html-7" class="widget_text widget col-sm-4 widget_custom_html"><h2 class="widget-title">О НАС</h2><div class="textwidget custom-html-widget">Мы являемся детским развивающим клубом в Чехии. Наши кружки могут посещать дети от 4 до 15 лет. В клубе дети получают развитие по таким направлениям как: шахматы,программирование, физика, математика, наука,  конструирование, логика. 
+<br>
+<br>
+<p style="text-transform:uppercase"><a href="https://www.molekula.club/pravila_kluba">&#9745; Правила и условия клуба</a></p>
+<p style="text-transform:uppercase"><a href="https://www.molekula.club/pol_konf">&#9745; Политика конфиденциальности</a></p>
+</div></aside><aside id="custom_html-3" class="widget_text widget col-sm-4 widget_custom_html"><h2 class="widget-title">Мы в соц. сетях</h2><div class="textwidget custom-html-widget"><p align="">
+<a href="https://www.facebook.com/molekula.club/"><img src="https://www.molekula.club/wp-content/uploads/2019/04/fb1.png" alt=""></a>
+<a href="https://www.instagram.com/club.molekula/"><img src="https://www.molekula.club/wp-content/uploads/2019/04/instagram1.png" alt=""></a> 
+</p></div></aside><aside id="custom_html-2" class="widget_text widget col-sm-4 widget_custom_html"><h2 class="widget-title">РЕГ. ДАННЫЕ</h2><div class="textwidget custom-html-widget"><p>Eduard Karapetyan<br>
+IČ: 05019222<br>
+Úřad příslušný podle §71 odst.2 živnostenského zákona: Úřad městské části Praha 8	
+</p></div></aside>				</div>
+</div>
+</div>
+<div class="site-info">			
+<div class="container">
+<div class="row">
+<div class="col-sm-12 col-xs-12">
+</div>
+<div class="col-sm-12 col-xs-12">
+<div id="ztl-copyright">
+© 2016 Детский развивающий клуб "Молекула"						</div>
+</div>
+</div>
+</div>
+</div><!-- .site-info -->
+</footer><!-- #colophon -->
+</div><!-- #page -->
+<!-- #search-modal -->
+<div class="modal fade" id="search-modal" tabindex="-1" role="dialog" aria-labelledby="search-modal" aria-hidden="true" style="display: none;">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-body">
+<div class="search-title">Looking for Something?</div>
+<form role="search" autocomplete="off" method="get" id="searchform" action="https://www.molekula.club/">
+<div class="search-wrapper">
+<input type="text" placeholder="Type here ..." class="search-input" autocomplete="off" value="" name="s" id="s">
+<span class="ztl-search-button ztl-button-three">
+<button type="submit" class="search-submit">Search</button>
+</span>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+var c = document.body.className;
+c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+document.body.className = c;
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.molekula.club\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.molekula.club/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.7'></script>
+<script type='text/javascript' src='https://www.molekula.club/wp-content/plugins/enfant-theme-extension/shortcodes/assets/js/countUp.min.js?ver=VERSION'></script>
+<script type='text/javascript' src='https://www.molekula.club/wp-content/plugins/enfant-theme-extension/shortcodes/assets/js/jquery.countdown.js?ver=VERSION'></script>
+<script type='text/javascript' src='https://www.molekula.club/wp-content/plugins/enfant-theme-extension/shortcodes/assets/js/shortcodes.js?ver=VERSION'></script>
+<script type='text/javascript' src='https://www.molekula.club/wp-content/plugins/enfant-theme-extension/shortcodes/assets/js/owl.carousel.min.js?ver=VERSION'></script>
+<script type='text/javascript' src='https://www.molekula.club/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.molekula.club/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=4.0.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_f95a8e2ca3714059e963e5b9d5908ceb","fragment_name":"wc_fragments_f95a8e2ca3714059e963e5b9d5908ceb","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.molekula.club/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=4.0.1'></script>
+<script type='text/javascript'>
+var renderInvisibleReCaptcha = function() {
+for (var i = 0; i < document.forms.length; ++i) {
+var form = document.forms[i];
+var holder = form.querySelector('.inv-recaptcha-holder');
+if (null === holder) continue;
+holder.innerHTML = '';
+(function(frm){
+var cf7SubmitElm = frm.querySelector('.wpcf7-submit');
+var holderId = grecaptcha.render(holder,{
+'sitekey': '6Ldq1ZYUAAAAAIxFr5JaRG0yT3LEfvbfpHzrB3ue', 'size': 'invisible', 'badge' : 'bottomright',
+'callback' : function (recaptchaToken) {
+if((null !== cf7SubmitElm) && (typeof jQuery != 'undefined')){jQuery(frm).submit();grecaptcha.reset(holderId);return;}
+HTMLFormElement.prototype.submit.call(frm);
+},
+'expired-callback' : function(){grecaptcha.reset(holderId);}
+});
+if(null !== cf7SubmitElm && (typeof jQuery != 'undefined') ){
+jQuery(cf7SubmitElm).off('click').on('click', function(clickEvt){
+clickEvt.preventDefault();
+grecaptcha.execute(holderId);
+});
+}
+else
+{
+frm.onsubmit = function (evt){evt.preventDefault();grecaptcha.execute(holderId);};
+}
+})(form);
+}
+};
+</script>
+<script type='text/javascript' async defer src='https://www.google.com/recaptcha/api.js?onload=renderInvisibleReCaptcha&#038;render=explicit'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var spuvar = {"is_admin":"","disable_style":"","ajax_mode":"","ajax_url":"https:\/\/www.molekula.club\/wp-admin\/admin-ajax.php","ajax_mode_url":"https:\/\/www.molekula.club\/?spu_action=spu_load&lang=ru","pid":"6868","is_front_page":"","is_category":"","site_url":"https:\/\/www.molekula.club","is_archive":"","is_search":"","is_preview":"","seconds_confirmation_close":"5"};
+var spuvar_social = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.molekula.club/wp-content/plugins/popups/public/assets/js/public.js?ver=1.9.3.8'></script>
+<script type='text/javascript' src='https://www.molekula.club/wp-content/themes/enfant/js/bootstrap.min.js?ver=3.1.9'></script>
+<script type='text/javascript' src='https://www.molekula.club/wp-content/themes/enfant/js/enfant-navigation.js?ver=3.1.9'></script>
+<script type='text/javascript' src='https://www.molekula.club/wp-content/themes/enfant/js/jquery.waypoints.min.js?ver=3.1.9'></script>
+<script type='text/javascript' src='https://www.molekula.club/wp-content/themes/enfant/js/inview.min.js?ver=3.1.9'></script>
+<script type='text/javascript' src='https://www.molekula.club/wp-content/themes/enfant/js/retina.min.js?ver=3.1.9'></script>
+<script type='text/javascript' src='https://www.molekula.club/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript' src='https://www.molekula.club/wp-content/themes/enfant/js/enfant-general.js?ver=3.1.9'></script>
+<script type='text/javascript' src='https://www.molekula.club/wp-content/plugins/easy-fancybox/js/jquery.fancybox.min.js?ver=1.3.24'></script>
+<script type='text/javascript'>
+var fb_timeout, fb_opts={'overlayShow':true,'hideOnOverlayClick':true,'showCloseButton':true,'width':560,'height':500,'margin':20,'centerOnScroll':false,'enableEscapeButton':true,'autoScale':true };
+if(typeof easy_fancybox_handler==='undefined'){
+var easy_fancybox_handler=function(){
+jQuery('.nofancybox,a.wp-block-file__button,a.pin-it-button,a[href*="pinterest.com/pin/create"],a[href*="facebook.com/share"],a[href*="twitter.com/share"]').addClass('nolightbox');
+/* Inline */
+jQuery('a.fancybox-inline,area.fancybox-inline,li.fancybox-inline a').each(function(){jQuery(this).fancybox(jQuery.extend({},fb_opts,{'type':'inline','autoDimensions':false,'scrolling':'auto','opacity':false,'hideOnContentClick':false,'titleShow':false}))});};
+jQuery('a.fancybox-close').on('click',function(e){e.preventDefault();jQuery.fancybox.close()});
+};
+var easy_fancybox_auto=function(){setTimeout(function(){jQuery('#fancybox-auto').trigger('click')},1000);};
+jQuery(easy_fancybox_handler);jQuery(document).on('post-load',easy_fancybox_handler);
+jQuery(easy_fancybox_auto);
+</script>
+<script type='text/javascript' src='https://www.molekula.club/wp-includes/js/wp-embed.min.js?ver=5.4.1'></script>
+<script type="text/javascript">(function() {
+var expirationDate = new Date();
+expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
+document.cookie = "pll_language=ru; expires=" + expirationDate.toUTCString() + "; path=/";
+}());</script></body>
+</html><!-- WP Fastest Cache file was created in 1.50589799881 seconds, on 04-06-20 15:36:57 --><!-- need to refresh to see cached version -->
