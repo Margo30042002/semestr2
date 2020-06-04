@@ -17,6 +17,7 @@ width:100%;
 width:100%;}
 #b3{background-color:#090;
 width:15%; 
+ padding:0px;
   float:left;}
 #b4{background-color:#009;
 width:60%;
@@ -25,6 +26,7 @@ padding:0px;
 }
 #b5{background-color:#990;
 width:15%;
+padding:0px;
 float:right;}
 #b6{background-color:#099;
 width:100%;
