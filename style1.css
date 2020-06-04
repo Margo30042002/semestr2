@@ -12,23 +12,23 @@ width:1200px;
 }
 #b2{text-aling:center;font-style: 14pt Times New Roman;
 width:860px; 
-  padding::820px
+height::820px
  margin: 20px;
 float:left;}
 #b3{;text-aling:center;font-style: 14pt Times New Roman;
 width:280px; 
-padding::570px
+height::570px
 float:left;
   margin: 20px;
 }
 #b4{text-aling:center;font-style: 14pt Times New Roman;
 width:300;
 float:left;
- padding::250px
+ height::250px
 }
 #b5{text-aling:center;font-style: 14pt Times New Roman;
 width:1200px;
-  padding: 190px;
+  height: 190px;
   margin: 20px;
 clear:both;}
 
